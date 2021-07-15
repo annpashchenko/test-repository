@@ -1,0 +1,24 @@
+h1{
+color: #29447E ;
+font-family: Arial; 
+}
+h2{
+font-family: Arial;
+color: #172544;
+}
+h3{
+font-family: Arial;
+color: #6A7285;
+font-size: 18px;
+}
+
+div {
+	font-style: italic;
+}
+.imgCenter {
+	text-align:center;
+	}
+	p{
+		font-family: Arial;
+	}
+	
